@@ -1,0 +1,5 @@
+git remote set-url origin git+ssh://git@github.com/bklee18/phase-0-tracks.git
+to change back to old way
+git remote set-url origin https://github.com/bklee18/phase-0-tracks.git
+
+also git fetch -p prunes all local branches to be like github
